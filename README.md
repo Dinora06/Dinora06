@@ -18,9 +18,9 @@ Salom! Men PDP University talabasiman. Hozida dasturlashni o'rganyapman.
 
 ### 📈 Mening Statistikam
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuchexra&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinora06&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuchexra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinora06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
