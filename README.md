@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salom, men Manuchehra Nurmexrojova!
 
-<!--
-**Dinora06/Dinora06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Backend Dasturchi | Telegram Bot Yaratish | Full-Stack Developer`
 
-Here are some ideas to get you started:
+### 🧑‍💻 Men haqimda
+Salom! Men PDP University talabasiman. Hozida dasturlashni o'rganyapman. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ism: Dinora
+- Familiya: Suyarova
+- Telegram username: [@TDD_pm](https://t.me/TDD_pm)
+
+| Dasturlash tillari |
+
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 
+---
+
+### 📈 Mening Statistikam
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuchexra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuchexra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+
+Kodingiz chiroyli va muvaffaqiyatli bo'lsin! 😊
