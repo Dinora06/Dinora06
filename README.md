@@ -1,9 +1,7 @@
-# 👋 Salom, men Manuchehra Nurmexrojova!
-
-`Backend Dasturchi | Telegram Bot Yaratish | Full-Stack Developer`
+# 👋 Salom, men Dinora Suyarova!
 
 ### 🧑‍💻 Men haqimda
-Salom! Men PDP University talabasiman. Hozida dasturlashni o'rganyapman. 
+Salom! Men PDP University talabasi va TDD bo'limi xodimasiman. Hozida dasturlashni o'rganyapman. 
 
 - Ism: Dinora
 - Familiya: Suyarova
@@ -11,9 +9,7 @@ Salom! Men PDP University talabasiman. Hozida dasturlashni o'rganyapman.
 
 | Dasturlash tillari |
 
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 
 ---
 
 ### 📈 Mening Statistikam
